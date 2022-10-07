@@ -3,14 +3,14 @@
     <channel>
         <title>Hack Driver - Appcast</title>
         <item>
-            <title>Version 1.0.7</title>
+            <title>Version 1.0.8</title>
             <description>We update Hack Driver app frequently to improve your services and customer success.
 
 - Bug fixes and improvements
 - Localization improvements
 
 Hope you appreciate our app and we want to be part of your success. We love to hear your feedback or questions, please contact us hackrides.com</description>
-            <pubDate>Wed, 5 Oct 2022 01:00:00 +0000</pubDate>
+            <pubDate>Wed, 7 Oct 2022 01:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.0.7" sparkle:os="android" />
         </item>
     </channel>
