@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Hack Driver - Appcast</title>
+        <title>Hack Rides - Appcast</title>
         <item>
-            <title>Version 1.0.0</title>
-            <description>We update Hack Driver app frequently to improve your services and customer success.
+            <title>Version 1.0.1</title>
+            <description>We update Hack Rides app frequently to improve your services and customer success.
 
-- Bug fixes and improvements
-- Localization improvements
+- We've updated some text messages to make things clearer for the passengers.
+- We've added "Latest destinations" on the search screen.
+- We've made it easier to book for a friend by adding a "My location" option.
 
 Hope you appreciate our app and we want to be part of your success. We love to hear your feedback or questions, please contact us hackrides.com</description>
-            <pubDate>Tue, 26 Jul 2022 01:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.0.0" sparkle:os="android" />
+            <pubDate>Tue, 6 Jul 2023 20:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.0.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
