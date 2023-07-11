@@ -3,15 +3,15 @@
     <channel>
         <title>Hack Driver - Appcast</title>
         <item>
-            <title>Version 1.1.7</title>
+            <title>Version 1.1.8</title>
             <description>We update Hack Driver app frequently to improve your services and customer success.
 
-- We've made some changes to the text when a favorite driver accepts a trip.
-- We've added a link to help drivers finding the correct settings for our app.
+- We've made some changes to the process of uploading documents and updating your profile.
+- We've fixed an issue related to navigation for "share a trip".
 
 Hope you appreciate our app and we want to be part of your success. We love to hear your feedback or questions, please contact us hackrides.com</description>
-            <pubDate>Tue, 6 Jul 2023 20:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.1.7" sparkle:os="android" />
+            <pubDate>Tue, 10 Jul 2023 20:45:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.1.8" sparkle:os="android" />
         </item>
     </channel>
 </rss>
