@@ -3,16 +3,16 @@
     <channel>
         <title>Hack Rides - Appcast</title>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.0.2</title>
             <description>We update Hack Rides app frequently to improve your services and customer success.
 
-- We've updated some text messages to make things clearer for the passengers.
-- We've added "Latest destinations" on the search screen.
-- We've made it easier to book for a friend by adding a "My location" option.
+- We fixed an issue with payment authorization when booking a trip via QR code.
+- We fixed a bug that sometimes caused the driver icon to move irrationally while navigating to a customer.
+- We updated the layout of the pickup location to also show the address label.
 
 Hope you appreciate our app and we want to be part of your success. We love to hear your feedback or questions, please contact us hackrides.com</description>
-            <pubDate>Tue, 6 Jul 2023 20:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.0.1" sparkle:os="android" />
+            <pubDate>Tue, 6 Jul 2023 20:05:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.0.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
