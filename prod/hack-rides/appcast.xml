@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Hack Rides - Appcast</title>
+        <title>Hack Rides</title>
         <item>
-            <title>Version 1.0.2</title>
-            <description>We update Hack Rides app frequently to improve your services and customer success.
-
-- We fixed an issue with payment authorization when booking a trip via QR code.
-- We fixed a bug that sometimes caused the driver icon to move irrationally while navigating to a customer.
-- We updated the layout of the pickup location to also show the address label.
-
-Hope you appreciate our app and we want to be part of your success. We love to hear your feedback or questions, please contact us hackrides.com</description>
-            <pubDate>Tue, 6 Jul 2023 20:05:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.0.2" sparkle:os="android" />
+            <title>Version 1.0.3</title>
+            <description>- We updated the layout of the side menu.
+- We implemented a feature that makes it easier to see- and interact with messages.
+- We redesigned the support screen to make it more straight forward and easier to use.
+- We implemented a function to add favorite drivers by scanning the drivers QR code.
+- We now show the price and distance in the QR code at a "Hop in trip".
+- We now show a less complex QR code.</description>
+            <pubDate>Sat, 5 Aug 2023 11:11:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.0.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
