@@ -3,14 +3,16 @@
     <channel>
         <title>Hack Driver - Appcast</title>
         <item>
-            <title>Version 1.2.1</title>
-            <description>- We added a function that sends a welcome message to new drivers when they sign up.
-- We added a "No thanks" button so a driver can decline an order instantly which also mutes the notifications for that order.
-- We fixed an issued causing background music from other apps to stop when restarting the app.
-- We added a price list in the app menu for drivers to compare the various car types.
-- We added an "Instruction videos" link in the app menu offering help for the drivers.</description>
-            <pubDate>Wed, 26 Jul 2023 11:10:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.2.1" sparkle:os="android" />
+            <title>Version 1.2.2</title>
+            <description>- Less complex QR codes are now being generated.
+- A driver can now accept more than one hop-in customer by scanning additional QR codes.
+- The logic for how the “no thanks button” works has been updated.
+- The layout of the “No vehicle button” has been changed
+- The support part has been completely redesigned.
+- A message notification/button is now shown on the home screen.
+- The icon that shows the current location has been updated.</description>
+            <pubDate>Tue, 8 Aug 2023 16:10:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.2.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
