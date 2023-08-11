@@ -3,15 +3,15 @@
     <channel>
         <title>Hack Rides</title>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.0.4</title>
             <description>- We updated the layout of the side menu.
 - We implemented a feature that makes it easier to see- and interact with messages.
 - We redesigned the support screen to make it more straight forward and easier to use.
 - We implemented a function to add favorite drivers by scanning the drivers QR code.
 - We now show the price and distance in the QR code at a "Hop in trip".
 - We now show a less complex QR code.</description>
-            <pubDate>Sat, 5 Aug 2023 11:11:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.0.3" sparkle:os="android" />
+            <pubDate>Thu, 10 Aug 2023 11:11:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.0.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>
