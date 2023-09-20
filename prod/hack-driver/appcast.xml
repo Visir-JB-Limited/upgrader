@@ -3,16 +3,14 @@
     <channel>
         <title>Hack Driver - Appcast</title>
         <item>
-            <title>Version 1.2.2</title>
-            <description>- Less complex QR codes are now being generated.
-- A driver can now accept more than one hop-in customer by scanning additional QR codes.
-- The logic for how the “no thanks button” works has been updated.
-- The layout of the “No vehicle button” has been changed
-- The support part has been completely redesigned.
-- A message notification/button is now shown on the home screen.
+            <title>Version 1.2.3</title>
+            <description>- The layout of the trip information has been changed.
+- Update launching screen make app start faster.
+- Implement navigation button for all destinations.
+- The support support to click on link in chat content.
 - The icon that shows the current location has been updated.</description>
-            <pubDate>Tue, 8 Aug 2023 16:10:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.2.2" sparkle:os="android" />
+            <pubDate>Sat, 16 Sep 2023 16:10:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.2.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
