@@ -3,11 +3,12 @@
     <channel>
         <title>Hack Driver - Appcast</title>
         <item>
-            <title>Version 1.2.4</title>
-            <description>- We have changed the way drivers register and login. We have removed SMS confirmation and now use the much more secure BankID.
-- We have made improvements to the responsiveness on the touch areas when sending messages.</description>
+            <title>Version 1.2.5</title>
+            <description>- Some minor layout and design changes.
+- We also made some design changes to make sure that smaller devices can see all the trip information without scrolling.
+- We fixed an issue that caused the route on maps to not show correctly.</description>
             <pubDate>Fri, 22 Sep 2023 16:10:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.2.4" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.2.5" sparkle:os="android" />
         </item>
     </channel>
 </rss>
