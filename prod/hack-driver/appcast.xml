@@ -4,11 +4,9 @@
         <title>Hack Driver - Appcast</title>
         <item>
             <title>Version 1.2.5</title>
-            <description>- Some minor layout and design changes.
-- We also made some design changes to make sure that smaller devices can see all the trip information without scrolling.
-- We fixed an issue that caused the route on maps to not show correctly.</description>
-            <pubDate>Fri, 22 Sep 2023 16:10:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.2.5" sparkle:os="android" />
+            <description>- Minor updates and fixes and dark mode added.</description>
+            <pubDate>Tue, 17 Oct 2023 11:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.2.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
