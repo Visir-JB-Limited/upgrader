@@ -3,10 +3,16 @@
     <channel>
         <title>Hack Rides</title>
         <item>
-            <title>Version 1.0.8</title>
-            <description>- Minor updates and bug fixes.</description>
-            <pubDate>Sat, 18 Nov 2023 02:40:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.0.8" sparkle:os="android" />
+            <title>Version 1.1.0</title>
+            <description>This is a major update with a brand new look and features.
+- A completely new design and layout.
+- Several updated booking features. Pay directly to the driver once you're in the taxi.
+- Switch between your private account and work account. Export your work receipts with ease.
+- New voucher system. Send trip vouchers to friends and employees.
+- Make a pre-booking with one of your favourite drivers.
+- Several other improvements, additions and minor bug fixes.</description>
+            <pubDate>Sat, 1 Jun 2024 04:22:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.1.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
