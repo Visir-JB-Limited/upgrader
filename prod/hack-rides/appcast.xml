@@ -3,10 +3,17 @@
     <channel>
         <title>Hack Rides</title>
         <item>
-            <title>Version 1.1.3</title>
-            <description>- Several other improvements, additions and minor bug fixes.</description>
-            <pubDate>Thu, 13 Jun 2024 16:10:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.1.3" sparkle:os="android" />
+            <title>Version 1.1.4</title>
+            <description>- Improved security.
+- Unread messages are properly shown.
+- Option to select "My location" added to all booking options.
+- New layout for pre booking and the estimated cost is now displayed.
+- An issue with updating the profile avatar has been fixed.
+- The support chat has been revamped.
+- Updated UI displaying the route.
+- Updated UI and flow for pre booking.</description>
+            <pubDate>Tue, 17 Sep 2024 13:57:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackrides" sparkle:version="1.1.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>
