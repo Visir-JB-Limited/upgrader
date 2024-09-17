@@ -3,10 +3,15 @@
     <channel>
         <title>Hack Driver - Appcast</title>
         <item>
-            <title>Version 1.3.6</title>
-            <description>- Minor updates and bug fixes</description>
-            <pubDate>Fri, 07 Jun 2024 17:33:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.3.6" sparkle:os="android" />
+            <title>Version 1.3.7</title>
+            <description>- Added notification for incoming request at pre booked trips.
+- Number of pre booking requests now displayed properly.
+- Fixed issue with drivers switching accounts.
+- Issue with changing profile avatar is now fixed.
+- The support chat has been revamped.
+- Minor bug fixes.</description>
+            <pubDate>Tue, 17 Sep 2024 14:33:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.uadd.hackdriver" sparkle:version="1.3.7" sparkle:os="android" />
         </item>
     </channel>
 </rss>
